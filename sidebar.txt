@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bzy:home|Door43 (bzy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bzy|d43-bzy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bzy/archive/master.zip|d43-bzy.zip]]
+
+**Recent Changes**
+{{changes>ns = bzy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bzy|Ethnologue data]]
+
